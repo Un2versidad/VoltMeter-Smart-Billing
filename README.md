@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" alt="VoltMeter Logo" src="https://github.com/user-attachments/assets/61bc5838-1eec-416d-936f-b5e6751e9386">
+  <img width="200" height="200" alt="VoltMeter Logo" src="https://volt-meter-solutions.vercel.app/assets/voltmeter-logo-BK_wTRg2.png">
 </p>
 
 <h1 align="center">VoltMeter Solutions S.A.</h1>
